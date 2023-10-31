@@ -8,3 +8,5 @@
 - [Video Esplicativo per linee di vista/cover/obscured](https://youtu.be/t4wmh_rxBwA?si=IlFSGTtyBstsPvLl)
 - [Video Riassuntivo common mistakes](https://youtu.be/LWuFp8jF85w?si=UsbNLufUOYusLdmm)
 - [Video Riassuntivo advanced mistakes](https://youtu.be/pfK7sS6Xi68?si=7JSbcDIoXulJV-Hw)
+- [Thread Reddit: Consigli di pittura miniature per principianti](https://www.reddit.com/r/minipainting/wiki/usefullinks/beginner_tips/)
+- [Thread Reddit: Consigli generali su cosa acquistare per pitturare miniature](https://www.reddit.com/r/minipainting/wiki/usefullinks/what_you_need_to_get_started/#wiki_general_advice_on_what_to_buy)
